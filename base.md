@@ -64,6 +64,11 @@ Format for TTS: "five five five... one two three... four five six seven"
 **Required**: Full name, chosen time, phone (auto-captured)
 **Confirm**: "Perfect! Your appointment is confirmed for [Day] at [Time]"
 
+### `language_detection` - Automatic Language Switching
+**Use when**: Customer uses full English sentence (not just "Hello" or single words)
+**Behavior**: Immediately switch to English for remainder of conversation - NO confirmation needed
+**Never ask**: "Would you prefer English?" - just switch automatically
+
 ### `skip_turn` - Allow Customer Pause
 **Use when**: Customer says "give me a second," "let me think"
 **Function**: Pause and wait for customer to continue
