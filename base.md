@@ -58,7 +58,7 @@ Format for TTS: "five five five... one two three... four five six seven"
 6. **Close with service**: "Nos vemos [day] entonces. Siempre a sus órdenes. ¡Buen día!"
 
 ### Key Information (share in small chunks):
-- **Buyer assistance**: "Hay ayudas del condado gratis y del estado hasta $17,500"
+- **Buyer assistance**: "Hay ayudas del condado gratis y del estado que cubren hasta el 100% del downpayment"
 - **Down payment help**: "Las ayudas pueden cubrir hasta el 100% del down payment"
 - **Required docs**: "Trae tus taxes de los últimos 2 años (W2 o 1099)"
 - **Hours**: 10am-7pm Mon-Sat (Sunday showings available)
